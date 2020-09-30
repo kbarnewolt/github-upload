@@ -1,0 +1,8 @@
+atom .gitignore
+cd github-upload
+C:\Users\kjbar\Desktop\github-upload>atom .gitignore
+C:\Users\kjbar\Desktop\github-upload>iv .gitignore
+C:\Users\kjbar\Desktop\github-upload>vi .gitignore
+C:\Users\kjbar\Desktop\github-upload>git add .gitignore README.md
+C:\Users\kjbar\Desktop\github-upload>git remote add origin https://github.com/kbarnewolt/github-upload.git
+clear
